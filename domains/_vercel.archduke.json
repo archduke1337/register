@@ -4,6 +4,9 @@
         "email": "gauravramyadav@gmail.com"
     },
     "records": {
-        "TXT": "vc-domain-verify=archduke.is-a.dev,f66feb3bae8f5c71488b"
+        "TXT": "vc-domain-verify=archduke.is-a.dev,ea316579dbc6f0a8b3a5"
+        "TXT" : "vc-domain-verify=www.archduke.is-a.dev,3b59821688d7f7f9e0f6"
+        "CNAME": "8ea56070d338939e.vercel-dns-017.com"
+
     }
 }
